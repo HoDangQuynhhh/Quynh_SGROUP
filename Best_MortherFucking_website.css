@@ -19,6 +19,7 @@ body.dark-mode {
     color: darkblue;
 }
 .brightness-toggle {
+    margin-top:5px;
     display:block;
     position: fixed;
     top: 40px;
