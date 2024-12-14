@@ -1,0 +1,131 @@
+body.light-mode {
+    background-color: white;
+    color: black;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+.toggle-link {
+    display:block;
+    position: fixed;
+    top: 20px; 
+    right: 20px;
+    font-size: 12px;
+}
+
+.toggle-link:hover {
+    color: darkblue;
+}
+.brightness-toggle {
+    display:block;
+    position: fixed;
+    top: 40px;
+    right: 20px;
+    font-size: 12px;
+}
+
+.brightness-toggle:hover {
+    color: darkblue;
+}
+.contain{
+    margin: 40px auto;
+    max-width: 800px;
+    line-height: 1.6;
+    font-size: 16px;
+    padding: 0 10px;
+} 
+.p1{
+    margin:-16px 0px 16px;
+    font-size:16px;
+
+}
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.4;
+}
+h2{
+    font-size: 24px;
+}
+.small-16-text{
+    font-size:16px;
+    margin: 0px 0px 0px 30px;   
+}
+.red-text {
+    color: red;
+}
+
+.brown-text {
+    color: brown;
+}
+.brown-text .small-test{
+    font-size: 12px;
+}
+.doTham-text{
+    color:#d24637;
+}
+.ca1a70-test{
+    color:#ca1a70;
+}
+.blue-test{
+    color:#00a2e7;
+}
+.small_test{
+    padding-top :0px;
+    font-size:.4em;
+}
+.bd-test{
+    color:#00a2e7;
+    border-bottom: 1px solid #00a2e7;
+}
+.shitty-blue-test{
+    color:#00e;
+}
+.violetish-test{
+    color:#551a8b;
+}
+.xanhnhat-test{
+    color:aqua;
+}
+.fakepre{
+    font-family: monospace;
+    font-size: .9em;
+}
+.nav{
+    display:flex;
+    min-width: 200px;
+}
+.nav-list{
+    display:flex;
+    justify-content:flex-start;
+    flex-direction: column;
+    padding-left: 0;
+    margin:auto 16px;
+}
+.nav-item{
+    margin:0 8px 8px 8px;
+    display: block;
+    font-size:15px;
+}
+.img-edit{
+    width: 200px;
+    height: 200px;
+}
+.bq{
+    margin : 0px 0px 0px 16px;
+    padding-bottom: 0px;
+}
+#iconnew{
+    width: 15px;
+    height:15px;
+}
+.iconnew2{
+    width: 32px;
+    height:32px;
+    margin:0px 384px;
+}
+.xam{
+    color:darkslategray;
+}
